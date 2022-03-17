@@ -12,9 +12,11 @@ Lesson Materials for 3rd party API integration
 - bash ./nyt-curl.sh
 
 3. Abstracted Implementation in js
-- Example: nyt-script.cjs
+- Example: nyt-script.cjs 
+- Executed with: node ./nyt-script.cjs
 - Includes direct https call and an abstracted function that allows user to send inputs to a function
 
 4. Abstracting the functions into a integration service
 - Example: nyt-integration.service.js
+- Executed with: node ./nyt-fake-client.js
 - Used to allow for shared resources and a solid foundation for any additional API functionality that may be added
