@@ -1,5 +1,5 @@
 # api-integration-lesson
-Lesson Materials for 3rd party API integration
+Lesson Materials for 3rd party API integration - Lesson relies heavily on NYT API documentation (https://developer.nytimes.com/)
 
 
 1. Decipher API documentation
