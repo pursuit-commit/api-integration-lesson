@@ -47,8 +47,6 @@ export class NytIntegrationService {
         url += `?api-key=${this.apiKey}`;
 
         return await got.get(url, {}).json();
-
-        // return await this.#getWithKey(url);
     }
 
     async getTopStoriesBySection(section) {
