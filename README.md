@@ -23,6 +23,7 @@ Lesson Materials for 3rd party API integration - Lesson relies heavily on NYT AP
 
 ## BREAKOUT EXERCISE
 Take a look at the Books API here: https://developer.nytimes.com/docs/books-product/1/overview
+Here is the Best Sellers list API doc: https://developer.nytimes.com/docs/books-product/1/routes/lists.json/get 
 
 1. Get an API Key: Normally you would need to generate an API key, however you can use my API key for the purposes of this exercise
 2. Construct a URL that will return the current Best Sellers on the NYT best sellers list
